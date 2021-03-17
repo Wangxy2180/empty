@@ -1,0 +1,3 @@
+[submodule "languageLearn"]
+	path = languageLearn
+	url = https://github.com/Wangxy2180/languageLearn.git
